@@ -14,7 +14,8 @@ https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
 
 ## Installing LimaCharlie
 Signing up for LimaCharlie Account: https://app.limacharlie.io/signup
-Installion: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
+
+Installation: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
 
 
 
