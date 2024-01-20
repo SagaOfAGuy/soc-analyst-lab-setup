@@ -1,7 +1,7 @@
 # SOC Analyst Lab Setup
 SOC Analyst Lab setup documentation
 
-## Prerequisitees
+## Prerequisites
 - Create Windows 10 Virtual Machine
 - Create Kali Linux Virtual Machine
 
