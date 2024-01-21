@@ -62,9 +62,26 @@ Get-WinEvent -LogName "Microsoft-Windows-Sysmon/Operational" -MaxEvents 10
 ## Installing LimaCharlie
 Signing up for LimaCharlie Account: https://app.limacharlie.io/signup
 
-Installation: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
+LimaCharlie Installation: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part
 
 
+## Kali Virtual Machine Configuration
+1. Install `sliver` C2 Framework so we can fire attacks on our Windows VM
+```bash
+# Download Sliver Linux server binary
+sudo wget https://github.com/BishopFox/sliver/releases/download/v1.5.34/sliver-server_linux -O /usr/local/bin/sliver-server
+
+# Make it executable
+sudo chmod +x /usr/local/bin/sliver-server
+
+# install mingw-w64 for additional capabilities
+sudo apt install -y mingw-w64
+```
+
+2. Create `/opt/sliver/` directory:
+```bash
+sudo mkdir /opt/sliver
+```
 
 
 
