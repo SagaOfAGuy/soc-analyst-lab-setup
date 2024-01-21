@@ -5,7 +5,7 @@ SOC Analyst Lab setup documentation
 - Create Windows 10 Virtual Machine
 - Create Kali Linux Virtual Machine with `sliver` installed
 
-## Terraform Windows Virtual Machine Automation
+## Terraform Windows and Kali Virtual Machine Automation
 Coming soon! 
 
 ## Windows 10 Virtual Machine Configuration
